@@ -34,3 +34,7 @@ header {
 h5 {
     margin-left: 1rem;
 }
+
+.list-group-item:nth-child(even) {
+    background-color: #E0E0E0;
+}
